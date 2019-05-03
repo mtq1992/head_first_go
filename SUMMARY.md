@@ -1,5 +1,5 @@
 # Table of contents
 
-* [简介](README.md)
+* [HEAD FIRST GO](README.md)
 * [目录](mu-lu.md)
 
